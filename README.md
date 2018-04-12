@@ -1,9 +1,9 @@
 ##Moisture_Sensor
-![image](http://www.seeedstudio.com/wiki/images/c/ce/Moisture_sensor_.jpg)
+![image](https://statics3.seeedstudio.com/images/101020008%201.jpg)
 
 This Moisture Sensor can be used to detect the moisture of soil or judge if there is water around the sensor, let the plants in your garden reach out for human help. They can be very easy to use, just insert it into the soil and then read it. With the help of this sensor, it will be realizable to make the plant remind you : hey, i am thirsty now, please give me some water.
 
-For more information, please refer to [Grove_Moisture_Sensor][1]
+For more information, please refer to [Grove_Moisture_Sensor wiki][1]
 
 ----
 This software is written by Frankie Chu for seeed studio<br>
@@ -17,7 +17,7 @@ Thanks for your contribution.
 Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
 
 
-[1]:http://www.seeedstudio.com/wiki/Grove_-_Moisture_Sensor
+[1]:https://www.seeedstudio.com/s/Grove-Moisture-Sensor-p-955.html
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Moisture_Sensor)](https://github.com/igrigorik/ga-beacon)
